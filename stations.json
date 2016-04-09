@@ -1,0 +1,19 @@
+{
+    "station":
+    [
+     {
+     "name": "ABC Newsradio",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/news_radio.pls",
+     "imageURL": "",
+     "desc": "ABC Newsradio",
+     "longDesc": "ABC Newsradio."
+     },
+     {
+     "name": "ABC Radio National",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/radio_national.pls",
+     "imageURL": "",
+     "desc": "ABC Radio National",
+     "longDesc": "ABC Radio National."
+     }
+    ]
+}
