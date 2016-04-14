@@ -2,11 +2,11 @@
     "station":
     [
      {
-     "name": "ABC Newsradio",
+     "name": "ABC News Radio",
      "streamURL": "http://abc.net.au/res/streaming/audio/aac/news_radio.pls",
      "imageURL": "",
-     "desc": "ABC Newsradio",
-     "longDesc": "ABC Newsradio."
+     "desc": "ABC News Radio",
+     "longDesc": "ABC News Radio."
      },
      {
      "name": "ABC Radio National",
@@ -14,6 +14,76 @@
      "imageURL": "",
      "desc": "ABC Radio National",
      "longDesc": "ABC Radio National."
+     },
+     {
+     "name": "ABC Sydney",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_sydney.pls",
+     "imageURL": "",
+     "desc": "ABC Sydney",
+     "longDesc": "ABC Sydney"
+     },
+     {
+     "name": "BBC World Service",
+     "streamURL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+     "imageURL": "",
+     "desc": "BBC World Service",
+     "longDesc": "BBC World Service"
+     },
+     {
+     "name": "ABC Radio Australia",
+     "streamURL": "http://shoutmedia.abc.net.au:10370/listen.pls",
+     "imageURL": "",
+     "desc": "ABC Radio Australia",
+     "longDesc": "ABC Radio Australia"
+     },
+     {
+     "name": "Vision Christian Radio",
+     "streamURL": "http://tx.sharp-stream.com/http_live.php?i=vision180.aac",
+     "imageURL": "",
+     "desc": "Vision Christian Radio",
+     "longDesc": "Vision Christian Radio"
+     },
+     {
+     "name": "666 ABC Canberra",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_canberra.pls",
+     "imageURL": "",
+     "desc": "666 ABC Canberra",
+     "longDesc": "666 ABC Canberra"
+     },
+     {
+     "name": "702 ABC Sydney",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_sydney.pls",
+     "imageURL": "",
+     "desc": "News/Local programming",
+     "longDesc": "702 ABC Sydney"
+     },
+     {
+     "name": "105.7 ABC Darwin",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_darwin.pls",
+     "imageURL": "",
+     "desc": "105.7 ABC Darwin",
+     "longDesc": "105.7 ABC Darwin"
+     },
+     {
+     "name": "612 ABC Brisbane",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_brisbane.pls",
+     "imageURL": "",
+     "desc": "612 ABC Brisbane",
+     "longDesc": "612 ABC Brisbane"
+     },
+     {
+     "name": "774 ABC Melbourne",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_melbourne.pls",
+     "imageURL": "",
+     "desc": "774 ABC Melbourne",
+     "longDesc": "774 ABC Melbourne"
+     },
+     {
+     "name": "720 ABC Perth",
+     "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_perth.pls",
+     "imageURL": "",
+     "desc": "720 ABC Perth",
+     "longDesc": "720 ABC Perth"
      }
-    ]
+     ]
 }
