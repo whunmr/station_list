@@ -37,13 +37,6 @@
      "longDesc": "ABC Radio Australia"
      },
      {
-     "name": "Vision Christian Radio",
-     "streamURL": "http://tx.sharp-stream.com/http_live.php?i=vision180.aac",
-     "imageURL": "",
-     "desc": "Vision Christian Radio",
-     "longDesc": "Vision Christian Radio"
-     },
-     {
      "name": "666 ABC Canberra",
      "streamURL": "http://abc.net.au/res/streaming/audio/aac/local_canberra.pls",
      "imageURL": "",
